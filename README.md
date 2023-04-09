@@ -18,7 +18,7 @@ The Android app is divided into two parts. A snake game and a WebView in which a
 Compose Navigation is used for navigation. For asynchronous tasks Kotlin Coroutines and Kotlin Flow.
 
 Loading
-![single_photo](https://user-images.githubusercontent.com/47458290/230794110-da144bd2-feec-458a-a951-63f9cd51d7ca.png)
+![single_photo](https://user-images.githubusercontent.com/47458290/230794258-9fea3f47-a316-42b4-9a69-e3d95fde2693.png)
 
 Menu
 ![second](https://user-images.githubusercontent.com/47458290/230794171-606b9ada-f190-49ef-8496-ed22baafb896.png)
