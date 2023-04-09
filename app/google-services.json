@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "23457340043",
+    "project_id": "snakecompose",
+    "storage_bucket": "snakecompose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23457340043:android:87f6b18f12f425c2e6528e",
+        "android_client_info": {
+          "package_name": "com.test_task.snakecompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23457340043-hdeijmr90hbue0e1i908nail365apelt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsTL46LKoiVc5qzRtfRab-ZBrVUrdaqsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23457340043-hdeijmr90hbue0e1i908nail365apelt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

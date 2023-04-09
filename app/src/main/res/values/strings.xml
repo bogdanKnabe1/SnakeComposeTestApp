@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Snake \nCompose</string>
+    <string name="app_name_placeholder">Snake App</string>
+    <string name="game_name">Snake</string>
+
+    <string name="default_player_name">Player 1</string>
+
+    <string name="game_over">Game Over!</string>
+    <string name="your_score">Your score: %s</string>
+    <string name="try_again">Try Again</string>
+    <string name="player_name">Player Name</string>
+    <string name="high_score">High Scores</string>
+    <string name="score">Score</string>
+
+    <string name="new_game">New Game</string>
+    <string name="set_name">Set Name</string>
+
+    <string name="title_set_name">Set Name</string>
+    <string name="save">Save</string>
+    <string name="player_name_updated">Player Name Updated</string>
+    <string name="cancel_dialog_choice">Cancel</string>
+    <string name="sorry_dialog_title">Sorry</string>
+    <string name="description_dialog">\"But you can\'t quit the app, you have to stay \"</string>
+</resources>
