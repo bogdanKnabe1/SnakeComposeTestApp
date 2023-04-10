@@ -44,7 +44,7 @@ fun Food(state: State, tileSize: Dp, modifier: Modifier = Modifier) {
         modifier
             .offset(x = tileSize * state.food.first, y = tileSize * state.food.second)
             .size(tileSize)
-            .background(foodColor, CircleShape)
+            .background(MaterialTheme.colorScheme.secondary, CircleShape)
     )
 }
 
@@ -59,7 +59,7 @@ fun SnakeBody(state: State, tileSize: Dp, modifier: Modifier = Modifier) {
                 )
                 .size(tileSize + padding2dp)
                 .background(
-                    snakeColor, RoundedCornerShape(padding4dp)
+                    MaterialTheme.colorScheme.primary, RoundedCornerShape(padding4dp)
                 )
         ) {
             /*if (index == 0) {
